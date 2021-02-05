@@ -6,6 +6,7 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    overflow: hidden;
 }
 
 .header {
@@ -19,10 +20,6 @@ body {
 .stats {
     background-color: rgba(255, 255, 255, 0.7);
     margin-bottom: 25px;
-}
-
-.footer {
-    position: absolute;
 }
 
 .pokedex-img {
