@@ -16,4 +16,4 @@ We want to recreate the game memory. It is a game where you have a bunch of card
 * Explanation on the page itself
 
 ## The result ##
-![picture alt](https://github.com/MarteDL/Memory-game/images/pokemonreadme.png?raw=true)
+![picture alt](/images/pokemonreadme.png)
