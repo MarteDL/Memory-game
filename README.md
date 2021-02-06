@@ -1,6 +1,6 @@
 # The Pokemon Memory Game #
 
-For my training at BeCode I worked on a memory game. The theme I chose is Pokemon because it is awesome.
+For my training at BeCode I worked on a memory game. The theme I chose is Pokemon because it is awesome. You can find my game [here](https://martedl.github.io/Memory-game/index.html).
 
 ## Learning Objectives ##
 * Change things in the DOM (Aka canvas = cheating)
